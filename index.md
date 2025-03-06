@@ -1,11 +1,11 @@
 ---
-title: "Ting-Siou Chen 陳亭秀"
-author: "Ting-Siou Chen"
+title: "Wen Chi Hsu 許玟琪"
+author: "Wen Chi Hsu"
 description: ""
 theme: jekyll-theme-minimal  # Change theme if needed
 ---
 
-# Hello, I'm Elaine!
+# Hello, I'm Jenny!
 
 Welcome to my personal website. Here, I share my research and projects.
 
@@ -13,35 +13,24 @@ Welcome to my personal website. Here, I share my research and projects.
 
 ## About Me
 
-Hello! I am **Elaine Chen**, currently pursuing a **Master's degree in Financial Engineering at National Yang Ming Chiao Tung University**.
+Hello! I am **Jenny Hsu**, currently pursuing a **Master's degree in Financial Decision at National Yang Ming Chiao Tung University**.
 
 
 <img src="https://github.com/user-attachments/assets/7f153356-cef0-48d4-8c5d-4965c6881553" alt="Profile Picture" width="200">
 
 
 ### Education
-- **National Yang Ming Chiao Tung University (NYCU)** – Department of Information Management and Finance, Financial Engineering Program (2024.09 - Present)
-- **National Taipei University (NTPU)** – Department of Statistics (2020.09 - 2024.06)
-- **Kaohsiung Girls' Senior High School(KGHS)** (2017.09 - 2020.06)
-
-### Research Interests
-- Reverse Mortgage and Home Reversion
+- **National Yang Ming Chiao Tung University (NYCU)** – Department of Information Management and Finance, Financial Decision Program (2024.09 - Present)
+- **National Sports Training Center** - Badminton team (2020 - 2024)
+- **National Chiao Tung University (NTPU)** – Department of Industrial Engineering and Management (2016.09 - 2020.06)
+- **Taipei Municipal Datong High School (DTSH)** (2010.09 - 2016.06)
 
 ### Technical Skills
-#### Statistics
-- Statistics, Probability, Regression Analysis, Mathematical Statistics, Time Series Analysis, Analysis of Longitudinal Data
-
-#### Financial Engineering
-- Financial Mathematics, Numerical Methods in Finance, Econometrics, Derivatives
 
 #### Programming
-- R, MATLAB, SAS, STATA, Eviews, Python
+- R, MATLAB, c++
 
 ---
-
-## Research Projects
-### 買房好時機：利用機器學習與時間序列方法分析及預測新北市住宅價格指數
-- **Research Method**:This study employs both traditional time series models (VAR) and machine learning methods (SVR, LSTM) to analyze and forecast the housing price index of New Taipei City. 
 
 
 ## Contact Information

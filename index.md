@@ -14,9 +14,8 @@ Welcome to my personal website. Here, I share my research and projects.
 ## About Me
 
 Hello! I am **Jenny Hsu**, currently pursuing a **Master's degree in Financial Decision at National Yang Ming Chiao Tung University**.
+ <img src="螢幕擷取畫面 2025-02-24 232419.png" alt="我的照片" style="width: 200px; height: auto; border-radius: 10px;">
 
-
-<img src="https://github.com/user-attachments/assets/7f153356-cef0-48d4-8c5d-4965c6881553" alt="Profile Picture" width="200">
 
 
 ### Education
@@ -34,6 +33,5 @@ Hello! I am **Jenny Hsu**, currently pursuing a **Master's degree in Financial D
 
 
 ## Contact Information
-- **GitHub**: [ElaineeeeChen](https://github.com/ElaineeeeChen)
-- **Phone**: 0976-512-521
-- **Email**: [a0976512521@gmail.com](mailto:a0976512521@gmail.com)
+- **GitHub**: [WenC09](https://github.com/WenC09)
+- **Email**: [jennyshue928@gmail.com](mailto:a0976512521@gmail.com)

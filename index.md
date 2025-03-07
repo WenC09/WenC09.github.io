@@ -34,4 +34,4 @@ Hello! I am **Jenny Hsu**, currently pursuing a **Master's degree in Financial D
 
 ## Contact Information
 - **GitHub**: [WenC09](https://github.com/WenC09)
-- **Email**: [jennyshue928@gmail.com](mailto:a0976512521@gmail.com)
+- **Email**: [jennyshue928@gmail.com](mailto:jennyshue928@gmail.com)
